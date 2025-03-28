@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/hangawi/static/js/main.bc0b998a.js",
+    "main.js": "/hangawi/static/js/main.73badb3c.js",
     "index.html": "/hangawi/index.html",
-    "main.bc0b998a.js.map": "/hangawi/static/js/main.bc0b998a.js.map"
+    "main.73badb3c.js.map": "/hangawi/static/js/main.73badb3c.js.map"
   },
   "entrypoints": [
-    "static/js/main.bc0b998a.js"
+    "static/js/main.73badb3c.js"
   ]
 }
